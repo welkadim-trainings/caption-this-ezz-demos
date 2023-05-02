@@ -2,8 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-
-Caption here
+added by magdy aption here
 
 ![poptocat2](https://octodex.github.com/images/poptocat_v2.png)
 {: .center}
