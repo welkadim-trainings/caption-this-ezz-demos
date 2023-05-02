@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
+<summary>More helpful links including videos, cheat sheets, and visualization tools - Updates</summary>
 
 #### Git Version
 
